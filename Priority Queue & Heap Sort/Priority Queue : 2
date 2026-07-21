@@ -1,0 +1,7 @@
+Q. Consider the following statements for priority queue:
+
+S1: It is a data structure in which the intrinsic ordering of the elements does determine the result of its basic operations.
+S2: The elements of a priority queue may be complex structures that are ordered on one or several fields.
+Which of the following is correct?
+
+-> Both S1 and S2 are correct
